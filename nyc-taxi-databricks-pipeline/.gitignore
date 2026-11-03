@@ -1,0 +1,8 @@
+*.parquet
+*.csv.gz
+.env
+.databricks/
+__pycache__/
+.ipynb_checkpoints/
+*.token
+.DS_Store
